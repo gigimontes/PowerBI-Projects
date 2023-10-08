@@ -13,4 +13,4 @@ In this project I looked into data reharding a questionaire survey taken by indi
   4. 43% of survey takers thought getting a job in the feild was neither easy or diffcult while 25% thought it was difficult and 21% thought it was easy.
   5. On Average Data Sciencetist had the highest salary being 93,780 per year while those inviduals who were a student, still on the search for a job in the feild, and those who were none did with a salary of 26,580 per year.
 
-#### Note: The data can be based of the Country the paricipant resides in.
+#### Note: The data can be filtered based on the Country the paricipant resides in.
