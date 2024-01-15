@@ -10,7 +10,7 @@ I analyzed data from a Questionnaire Survey results taken of those who are in th
   - Download the data here:
 
 **Power BI**
-  Download the Report here:  
+  - Download the Report here:  
 
 ## Data Cleaning/Preparation
   -
