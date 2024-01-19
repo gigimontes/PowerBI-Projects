@@ -15,14 +15,20 @@ I retrieved the data from AlexTheAnalyst Github's "Power-BI" respitory. To go to
   - Download the Report here:  
 
 ## Data Cleaning/Preparation
-  -
+  - 
   -
   -
 
 ## Exploratory Data Analysis
-The questions that were asked to collect the data were related to their careers such as work life balance, favorite programming language, difficulty breaking into analytics related careers, career satisfaction, etc. 
+The questions that were asked in the Survey and were used to do my Analysis are:
 
-## Data Analysis
+  - What is your age?
+  - Favorite Programming Language
+  - How happy are you in your current position with the following? (Salary)
+  - How happy are you in your current position with the following? (Work/Life Balance)
+  - How happy are you with your Current Position with the following? (Learning New things)
+  - How difficult was it for you to break into Data?
+  - What Country do you live in? 
 
 ## Results
 
