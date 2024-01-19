@@ -17,9 +17,10 @@ I retrieved the data from AlexTheAnalyst Github's "Power-BI" respitory. To go to
 ## Data Cleaning/Preparation
 
 **Split Column by Delimiter** 
- - For questions 2 and 7, survey takers had an option to choose 'other' and type in a specific answer. This caused alot of misspelled words, repetative answers,   
-   outliers, etc. For the purpose of this project, I split the column after the 'other' to then delete the new column where the typed in answer was in. This made the 
-   data simpler to read and process.
+ - For questions 2 and 7, Survey takers had an option to choose 'other' and type in a specific answer. This caused a lot of misspelled words, repetitive answers, outliers, etc. For this project, I split the column after the 'other' to then delete the new column where the typed-in answer was in. This made the data simpler to read and process.
+
+**Average Salary**
+  - For question 2 the answer choices are in ranges (ex. 0-40k, 41k-65k, 66k-85k, 86k-105k, 106k-125+k). Therefore, I had to Split the column, resulting in the start of a range in the first column and the second one in the second, replace the values to eliminate any text or symbols in the columns, and change the data type from Text to Numerical. Once completing these steps I was finally able to calculate the average salary.
 
 ## Exploratory Data Analysis
 The questions that were asked in the Survey and were used to do my Analysis are:
