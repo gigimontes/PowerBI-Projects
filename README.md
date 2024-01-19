@@ -21,13 +21,13 @@ I retrieved the data from AlexTheAnalyst Github's "Power-BI" respitory. To go to
 ## Exploratory Data Analysis
 The questions that were asked in the Survey and were used to do my Analysis are:
 
-  - 1. What is your age?
-  - 2. Favorite Programming Language
-  - 3. How happy are you in your current position with the following? (Salary)
-  - 4. How happy are you in your current position with the following? (Work/Life Balance)
-  - 5. How happy are you with your Current Position with the following? (Learning New things)
-  - 6. How difficult was it for you to break into Data?
-  - 7. What Country do you live in? 
+  1. What is your age?
+  2. Favorite Programming Language
+  3. 3. How happy are you in your current position with the following? (Salary)
+  4. How happy are you in your current position with the following? (Work/Life Balance)
+  5. How happy are you with your Current Position with the following? (Learning New things)
+  6. How difficult was it for you to break into Data?
+  7. What Country do you live in? 
 
 ## Results
 
