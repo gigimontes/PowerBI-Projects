@@ -16,7 +16,9 @@ I retrieved the data from AlexTheAnalyst Github's "Power-BI" respitory. To go to
 
 ## Data Cleaning/Preparation
   - Split Column by Delimiter 
-  - For questions 2 and 7, Survey takers had an option to choose 'other' and type in a specific answer. This caused alot of misspelled words, repetative answers, outliers, etc. For the purpose of this project, I split the column after the 'other' to then delete the new column where the typed in answer was in. This made the data simpler to read and process.
+       - For questions 2 and 7, Survey takers had an option to choose 'other' and type in a specific answer. This caused alot of misspelled words, repetative answers,   
+       outliers, etc. For the purpose of this project, I split the column after the 'other' to then delete the new column where the typed in answer was in. This made the 
+       data simpler to read and process.
 
 ## Exploratory Data Analysis
 The questions that were asked in the Survey and were used to do my Analysis are:
