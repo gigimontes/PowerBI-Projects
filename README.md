@@ -15,20 +15,19 @@ I retrieved the data from AlexTheAnalyst Github's "Power-BI" respitory. To go to
   - Download the Report here:  
 
 ## Data Cleaning/Preparation
-  - 
-  -
-  -
+  - Split Column by Delimiter 
+  - For questions 2 and 7, Survey takers had an option to choose 'other' and type in a specific answer. This caused alot of misspelled words, repetative answers, outliers, etc. For the purpose of this project, I split the column after the 'other' to then delete the new column where the typed in answer was in. This made the data simpler to read and process.
 
 ## Exploratory Data Analysis
 The questions that were asked in the Survey and were used to do my Analysis are:
 
-  - What is your age?
-  - Favorite Programming Language
-  - How happy are you in your current position with the following? (Salary)
-  - How happy are you in your current position with the following? (Work/Life Balance)
-  - How happy are you with your Current Position with the following? (Learning New things)
-  - How difficult was it for you to break into Data?
-  - What Country do you live in? 
+  - 1. What is your age?
+  - 2. Favorite Programming Language
+  - 3. How happy are you in your current position with the following? (Salary)
+  - 4. How happy are you in your current position with the following? (Work/Life Balance)
+  - 5. How happy are you with your Current Position with the following? (Learning New things)
+  - 6. How difficult was it for you to break into Data?
+  - 7. What Country do you live in? 
 
 ## Results
 
@@ -48,7 +47,8 @@ The questions that were asked in the Survey and were used to do my Analysis are:
     while those individuals who were a student, still on the search for a 
     job in the field, and those who were none did with a salary of 26,580 
     per year.
-  - Most Participants reside in the United States with 261 submissions and      'Other' countries with 224 submissions. There are 73 participants that      reside in India, 40 in the United Kingdom, and 32 in Canada.
+  - Most Participants reside in the United States with 261 submissions and 'Other' countries with 224 submissions. There are 73 participants that reside in India, 
+    40 in the United Kingdom, and 32 in Canada.
 
 
 
