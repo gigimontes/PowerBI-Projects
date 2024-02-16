@@ -4,12 +4,12 @@
 I analyzed data from a Questionnaire Survey results taken of those who are in the data analytics/data science field. 
 
 ## Data Source
-I retrieved the data from AlexTheAnalyst Github's "Power-BI" respitory. To go to the respitory click here: [Power BI respitory](https://github.com/AlexTheAnalyst/Power-BI)
+I retrieved the data from AlexTheAnalyst Github's "Power-BI" respitory. To go to the respitory click here: [Power BI Respitory](https://github.com/AlexTheAnalyst/Power-BI)
 
 
 ## Tools Used In Project:
 **Excel** 
-  - Download the Excel spreadsheet here: [Power BI repitory](https://github.com/AlexTheAnalyst/Power-BI)
+  - Download the Excel spreadsheet here: [Power BI Repitory](https://github.com/AlexTheAnalyst/Power-BI)
 
 **Power BI**
   - Download the Report here: [Analyst Data Survey](https://github.com/gigimontes/PowerBI-Projects/blob/main/Data%20Survey%20Project.pbix)  
